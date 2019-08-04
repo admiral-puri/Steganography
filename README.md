@@ -18,10 +18,10 @@ Open the directory
 
 cd Steganography
 # Usage
- *For Embedding
+ For Embedding
  Provide Password and Absolute path for Image file,File_to_Embed and Resulting_file and Comment Extraction function in Main.java
  
- *For Extraction
+ For Extraction
  Provide Password and Absolute path of Embedded_file(obtained after Embedding) and resulting hidden file.
  
 # Compilation
