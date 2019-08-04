@@ -24,7 +24,7 @@ cd Steganography
  Provide Password and Absolute path for Image file,File_to_Embed and Resulting_file and Comment Extraction function in Main.java
  
  # For Extraction:
- Provide Password and Absolute path of Embedded_file(obtained after Embedding) and Secret file (to be obtained).
+ Provide Password and Absolute path of Embedded_file(obtained after Embedding),Secret file (to be obtained) and comment Embedding Funcion in Main.java.
  
 # COMPILATION:
 $ javac Main.java
